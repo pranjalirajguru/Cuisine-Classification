@@ -26,4 +26,4 @@ This project predicts the type of cuisine a restaurant serves (Italian, Chinese,
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone <[repository_url](https://pranjalirajguru.github.io/Cuisine-Classification/)>
